@@ -1,4 +1,4 @@
-# Mele Fashion Store
+# Male Fashion Store
 
 Welcome to the Male Fashion Store repository! This project is a responsive e-commerce website template for a men's clothing and accessories store. It features a modern design with sections for featured products, deals and about us.
 
