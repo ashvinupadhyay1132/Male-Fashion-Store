@@ -4,7 +4,7 @@ Welcome to the Male Fashion Store repository! This project is a responsive e-com
 
 ## Demo
 
-Check out the live demo: [Male Fashion Store Demo](https://ashvinupadhyay1132.github.io/Mans-Fashion-Store/)
+Check out the live demo: [Male Fashion Store Demo](https://ashvinupadhyay1132.github.io/Male-Fashion-Store/)
 
 ## Features
 
